@@ -10,4 +10,4 @@
 | Dosen Pengampu | [Mohammad Faried Rahmat, S.ST., M.Tr.T](https://github.com/fariedrahmat) |
 
 # SCREENSHOT HASIL
-![SS](https://github.com/WahyuNurIbrah/Tugas_Perulangan/blob/main/Gambar%20P5js.png)
+![SS](https://github.com/WahyuNurIbrah/WebGL-3D/blob/main/image.png)
